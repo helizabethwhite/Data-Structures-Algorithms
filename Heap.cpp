@@ -2,6 +2,8 @@
  * \file Heap.cpp
  *
  * \author Hannah White
+ * 
+ * Brief: This program creates a min-heap from randomly generated integers.
  */
 
 #include <stdlib.h>
